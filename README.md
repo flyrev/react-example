@@ -1,4 +1,4 @@
-# react-example
+# React Example with GitHub Actions
 
 React example app that demonstrates using [React] with [webpack], and [babeljs], as well as project structure.
 
