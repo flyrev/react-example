@@ -20,3 +20,5 @@ open http://localhost:8080
 [React]: http://facebook.github.io/react/
 [webpack]: http://webpack.github.io/
 [babeljs]: https://babeljs.io/
+
+Hope you enjoy!
